@@ -7,4 +7,4 @@ Computer Science (UFRPE)
 
 Programming Language Experience C, C ++, Java, Python and R
 
-Computer Vision and Reinforcement Learning Research
+Computer Vision and Reinforcement Learning Researcher
