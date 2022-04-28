@@ -1,7 +1,7 @@
 ### Hi there, I'm Kenedy 👋
 
 
-I live on Recife, Brazil and work at NEUROTECH.
+I live on Recife, Brazil and work at Neurotech.
 
 Computer Science (UFRPE)
 
