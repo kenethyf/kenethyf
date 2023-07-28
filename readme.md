@@ -1,10 +1,8 @@
 ### Hi there, I'm Kenedy 👋
 
-
-I live on Recife, Brazil and work at Neurotech.
-
-Computer Science (UFRPE)
-
-Programming Language Experience C, C ++, Java, Python and R
-
-Computer Vision and Reinforcement Learning Researcher
+- 👨‍🎓 Computer Scientist @UFRPE
+- 🤓 Master Student Computer Vision @UFRPE @Voxar Labs CIn/UFPE
+- 🤖 Reinforcement Learning Researcher @UFRPE
+- 💻 Work at Neurotech.
+- 👨‍💻 I'm Developer Java and 🐍 Python, C, C++ and R
+- 🏠 I live on Recife/PE - Brazil
