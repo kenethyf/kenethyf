@@ -1,8 +1,6 @@
 ### Hi there, I'm Kenedy 👋
 
-- 👨‍🎓 Computer Scientist @ufrpe
-- 🤓 Master Student Computer Vision @ufrpe @voxarlabs @CIn/UFPE
-- 🤖 Reinforcement Learning Researcher @ufrpe
-- 💻 Work at Neurotech.
-- 👨‍💻 I'm Developer Java and 🐍 Python, C, C++ and R
-- 🏠 I live on Recife/PE - Brazil
+- 👨‍🎓 B.Sc. Computer Science [@UFRPE](https://www.instagram.com/ufrpe/)
+- 👨‍🏫 M.Sc. Student Computer Vision [@UFRPE](https://www.instagram.com/ufrpe/) [@Voxar Labs](https://www.instagram.com/voxarlabs/) [@CIn/UFPE](https://www.instagram.com/cinufpe/)
+- 👨‍💻 System Analyst [@Neurotech](https://www.instagram.com/neurotechbrasil/)
+- 🤖 Reinforcement Learning Researcher [@UFRPE](https://www.instagram.com/ufrpe/)
